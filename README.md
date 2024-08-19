@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lishashree
+- 👋 Hi, I’m Lisha Shree N
 - 👀 I’m interested in coding java and python.
 - 🌱 I’m currently doing an internship.
 - 💞️ I’m looking to collaborate on projects based on java and python.
